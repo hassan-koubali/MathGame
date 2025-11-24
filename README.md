@@ -1,40 +1,56 @@
-#MathGameCpp
-
-MathGameCpp is an interactive math quiz program built in C++. It challenges you with automatically generated arithmetic problems, helping you sharpen your mental calculation skills while tracking your performance.
 
 
 ---
 
-##Features
+MathGameCpp
 
--The program creates random math questions on every run
-
--Supports four operations: Addition (+), Subtraction (-), Multiplication (×), Division (/)
-
--Multiple difficulty modes: Easy, Medium, Hard, and Mixed
-
--Instant response: you immediately see whether your answer is right or wrong
-
--Final summary showing the number of correct and incorrect answers, plus a pass/fail result
-
----
-
-##How to Play ▶
-
-1. Make sure a C++ compiler is installed (e.g., Visual Studio 2020).
-
-2. Open the project folder and build MathGame.cpp.
-
-3. Run the program — it will start generating math problems automatically.
-
-4. Type your answer for each question and see the feedback instantly.
-
-5. After completing the quiz, you’ll get a report of your overall performance.
+MathGameCpp is a lightweight and interactive math quiz game written in C++.
+The application generates random arithmetic problems and evaluates the player’s answers in real time.
+It’s a simple yet effective project to practice both programming logic and quick mental math.
 
 
 ---
 
-##Additional Notes ℹ
+🚀 Features
 
--This small project was created by me, inspired by the Algorithms and Problem Solving course by Dr. Mohammed Abu-Hadhoud (ProgrammingAdvices).
-It’s both a fun and educational way to practice C++ coding and improve basic arithmetic skills at the same time.
+✔ Random question generator (addition, subtraction, multiplication, division)
+
+✔ Multiple difficulty modes: Easy, Medium, Hard, Mixed
+
+✔ Instant feedback on every answer
+
+✔ Score tracking: counts correct and incorrect answers
+
+✔ Performance result displayed at the end (Pass / Fail)
+
+
+
+---
+
+🕹 How to Run
+
+1. Make sure you have a C++ compiler installed (e.g., Visual Studio 2020).
+
+
+2. Clone or download the project.
+
+
+3. Open the file MathGame.cpp in your IDE.
+
+
+4. Compile and run the program.
+
+
+5. Answer the questions as they appear and check your score!
+
+
+
+
+---
+
+📘 About This Project
+
+This project was created by me and inspired by the
+“Algorithms and Problem Solving” course by Dr. Mohammed Abu-Hadhoud (ProgrammingAdvices).
+
+It aims to help beginners strengthen their understanding of C++ basics while enjoying a simple math challenge.
