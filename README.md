@@ -1,8 +1,4 @@
-
-
----
-
-MathGameCpp
+# MathGameCpp
 
 MathGameCpp is a lightweight and interactive math quiz game written in C++.
 The application generates random arithmetic problems and evaluates the player’s answers in real time.
@@ -11,7 +7,7 @@ It’s a simple yet effective project to practice both programming logic and qui
 
 ---
 
-🚀 Features
+## Features
 
 ✔ Random question generator (addition, subtraction, multiplication, division)
 
@@ -24,22 +20,17 @@ It’s a simple yet effective project to practice both programming logic and qui
 ✔ Performance result displayed at the end (Pass / Fail)
 
 
-
 ---
 
-🕹 How to Run
+## How to Run
 
 1. Make sure you have a C++ compiler installed (e.g., Visual Studio 2020).
 
-
 2. Clone or download the project.
-
 
 3. Open the file MathGame.cpp in your IDE.
 
-
 4. Compile and run the program.
-
 
 5. Answer the questions as they appear and check your score!
 
@@ -48,7 +39,7 @@ It’s a simple yet effective project to practice both programming logic and qui
 
 ---
 
-📘 About This Project
+## About This Project
 
 This project was created by me and inspired by the
 “Algorithms and Problem Solving” course by Dr. Mohammed Abu-Hadhoud (ProgrammingAdvices).
